@@ -7,5 +7,6 @@ A Java Swing GUI client for inventory management
 - Live table view
 - Save & Load files
 
-
+# Must be downloaded and ran locally
+-file only contains source code
 
